@@ -1,35 +1,39 @@
-OlyCode is the Olympia High School Computer Science Club
-We meet in Room 401 every Friday Afterschool 2:30 to 3:30
+### Oly Code
+OlyCode is the Olympia High School Computer Science Club. We meet in **Room 401** every **Friday Afterschool** from **2:30 to 3:30**. We focus on collaborating and creating intresting projects while expanding knowlege in different computer science applications. Join Us!
 
-### Who Are We
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+This site functions as a primary launching point to spread the word as well as showcase intresting peices of work done by the club. Projects will be posted often so check back frequently!
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+### How We Operate
+The club is mainly about exploring passions that intrest you with likeminded individuals. Each month a group will be formed and assigned a project category. At the end of every month a showcase will be held to reveal the amazing progress of every group.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+Our Club has Focused on these categories in the past
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+- Web Design
+- 3D Modeling
+- Competitive Programming
+- Artificial Intelligence Applications
+- App Development
+- Game Development
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+Categories are subject to change and it is entirely up to individual and group intrests!
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OlyCodeTeam/olycodeteam.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Competitions
+Our club is planning to participate in two main competitive events and other online events
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+- [PLU Programming Competition] (https://www.plu.edu/computer-science/hs-prog-contest/)
+- [Def Hacks Seattle] (http://defhacks.io/)
+
+
+Other events will be linked here
+
+
+### Hackathon
+
+Our Club also plans to host a local highschool hackathon. Details for this will be released at a later date. Any suggestions or intrest in involvement for this event can be directed during a club meeting.
