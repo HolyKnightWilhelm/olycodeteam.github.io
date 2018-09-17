@@ -1,9 +1,7 @@
-## Welcome to GitHub Pages
+OlyCode is the Olympia High School Computer Science Club
+We meet in Room 401 every Friday Afterschool 2:30 to 3:30
 
-You can use the [editor on GitHub](https://github.com/OlyCodeTeam/olycodeteam.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+### Who Are We
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
