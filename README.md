@@ -27,8 +27,8 @@ Categories are subject to change and it is entirely up to individual and group i
 Our club is planning to participate in two main competitive events and other online events
 
 
-- [PLU Programming Competition] (https://www.plu.edu/computer-science/hs-prog-contest/)
-- [Def Hacks Seattle] (http://defhacks.io/)
+- [PLU Programming Competition](https://www.plu.edu/computer-science/hs-prog-contest/)
+- [Def Hacks Seattle](http://defhacks.io/)
 
 
 Other events will be linked here
