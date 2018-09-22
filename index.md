@@ -1,6 +1,8 @@
 ### Oly Code
 OlyCode is the Olympia High School Computer Science Club. We meet in **Room 401** every **Friday Afterschool** from **2:30 to 3:30**. We focus on collaborating and creating intresting projects while expanding knowlege in different computer science applications. Join Us!
 
+### Need Help?
+[Training Links](./training_links.html)
 
 This site functions as a primary launching point to spread the word as well as showcase intresting peices of work done by the club. Projects will be posted often so check back frequently!
 
