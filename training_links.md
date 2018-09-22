@@ -8,8 +8,7 @@ All the different links to training sessions and other repositiores will be set 
 ## Java Resources
 Java Full Online Tutorial:
 
-![Code Academy](https://www.codecademy.com/learn/learn-java)
-![Code Academy](
+[Code Academy](https://www.codecademy.com/learn/learn-java)
 
 _yay_
 
