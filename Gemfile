@@ -1,1 +1,1 @@
-gem "slate"
+gem "jekyll-theme-slate"
