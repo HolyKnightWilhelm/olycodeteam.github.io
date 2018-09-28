@@ -21,5 +21,6 @@ Python Full Online Tutorial:
 
 [Code Academy: Python](https://www.codecademy.com/learn/learn-python)
 
+[Tensorflow Tutorials](https://www.tensorflow.org/tutorials/keras/basic_classification)
 
-[back](./)
+[Back](./)
