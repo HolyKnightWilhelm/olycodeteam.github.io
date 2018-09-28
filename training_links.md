@@ -5,7 +5,7 @@ layout: default
 ## Training Links
 All the different links to training sessions and other repositiores will be set here. If you have anything to add, talk to a Oly Code Web Admin. Some small code snippets might be posted here additionally.
 
-## Java Resources
+### Java Resources
 Java Full Online Tutorial:
 
 [Code Academy: Java](https://www.codecademy.com/learn/learn-java)
@@ -16,11 +16,18 @@ Android Programming:
 
 [Android Advanced](https://developer.android.com/courses/advanced-training/overview)
 
-## Python Resources
+### Python Resources
 Python Full Online Tutorial:
 
 [Code Academy: Python](https://www.codecademy.com/learn/learn-python)
 
+Python Machine Learning Tutorials
+
 [Tensorflow Tutorials](https://www.tensorflow.org/tutorials/keras/basic_classification)
+
+### Git Tutorials
+Git Online Tutorial:
+
+[Code Academy: Git](https://www.codecademy.com/learn/learn-git)
 
 [Back](./)
